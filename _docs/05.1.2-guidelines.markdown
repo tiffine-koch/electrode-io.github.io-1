@@ -1,0 +1,7 @@
+---
+title:  "Guidelines"
+permalink: docs/guidelines.html
+toplevel: "Getting Started: Advanced"
+---
+
+#### Guidelines
