@@ -1,7 +1,0 @@
----
-title:  "Style Guide"
-permalink: docs/style_guide.html
-toplevel: "Getting Started: Advanced"
----
-
-#### Style
